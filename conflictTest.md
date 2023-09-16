@@ -1,1 +1,1 @@
-Conflict test from VS Code.
+Conflict test from GitHub.
