@@ -1,1 +1,1 @@
-Conflict test from GitHub.
+Conflict test from GitHub. Here's the VS Code conflict.
